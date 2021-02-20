@@ -1,5 +1,0 @@
-requests==2.25.1
-arrow==0.17.0
-peewee==2.8.0
-beautifulsoup4==4.9.3
-pytest==6.2.2
